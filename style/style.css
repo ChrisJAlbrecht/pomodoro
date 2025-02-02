@@ -1,11 +1,13 @@
-body{
+/*body{
   min-height: 100vh;
   background: linear-gradient(-135deg,rgb(39,28,243),#ec2f12);
   display: flex;
   align-items: center;
   justify-content: center;
 }
+*/
 
+/*
 .container{
   gap: 2em;
   color: white;
@@ -13,6 +15,8 @@ body{
   border-radius: 2em;
   padding: 4em 3em;
 }
+*/
+
 hr{
   width: 100%;
   background-color: white;
@@ -24,10 +28,13 @@ hr{
   font-size: 10em;
   font-weight: 700;
 }
+/*
 .button-wrapper{
   display: flex;
   gap: 1em;
 }
+*/
+/*
 button{
   font-size: 2em;
   font-weight: 800;
@@ -35,3 +42,4 @@ button{
   padding: 0.5em 1.5em;
   border-radius: 0.5em;
 }
+  */
